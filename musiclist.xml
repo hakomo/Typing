@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<musicinformation>
+
+  <musicinfo id="0" xmlpath="XML/saisoku.xml" musicpath="music/174919.ogg">
+    <musicname>最速最高シャッターガール</musicname>
+    <artist>sounanoka</artist>
+    <genre></genre>
+    <level></level>
+  </musicinfo>
+
+  <musicinfo id="1" xmlpath="XML/satetu.xml" musicpath="music/satetu.ogg">
+    <musicname>砂鉄の国のアリス</musicname>
+  </musicinfo>
+
+  <musicinfo id="2" xmlpath="XML/mayohiga.xml" musicpath="mp3/mayohiga.mp3">
+    <musicname>マヨヒガの黒い影</musicname>
+  </musicinfo>
+
+  <musicinfo id="3" xmlpath="XML/harukatoi.xml" musicpath="music/harukatoi.ogg">
+    <musicname>遙か遠い空の声</musicname>
+  </musicinfo>
+
+  <musicinfo id="4" xmlpath="XML/iwish.xml" musicpath="music/iwish.ogg">
+    <musicname>アイ・ウィッシュ・クロスフェード</musicname>
+  </musicinfo>
+
+  <musicinfo id="5" xmlpath="XML/gumonzi.xml" musicpath="mp3/gumonzi.mp3">
+    <musicname>求聞持の能力</musicname>
+  </musicinfo>
+
+  <musicinfo id="6" xmlpath="XML/suretu.xml" musicpath="mp3/suretu.mp3">
+    <musicname>悖徳数列組曲(x≒y)</musicname>
+  </musicinfo>
+
+  <musicinfo id="7" xmlpath="XML/badapple.xml" musicpath="mp3/badapple.mp3">
+    <musicname>Bad Apple!!</musicname>
+  </musicinfo>
+
+  <musicinfo id="8" xmlpath="XML/senbon.xml" musicpath="mp3/senbon.mp3">
+    <musicname>千本桜</musicname>
+  </musicinfo>
+
+  <musicinfo id="9" xmlpath="XML/koun.xml" musicpath="mp3/koun.mp3">
+    <musicname>幸運のツボ</musicname>
+  </musicinfo>
+
+</musicinformation>
